@@ -140,7 +140,7 @@ Before you begin, you must already have a `package.json` file. If you don't, mak
    ];
    ```
 
-1. Lint code using the ESLint CLI:
+1. Lint code using the ESCLI:
 
    ```shell
    npx eslint project-dir/ file1.js
